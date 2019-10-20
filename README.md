@@ -2,7 +2,7 @@
 
 <img src="images/keypoints.png" width="820" height="248" />
 
-
+This project was built as part of the **Udacity Sensor Fusion Nanodegree Program**. In this project, we use several powerful OpenCV built-in algorithms to detect keypoints(features), describe keypoints and match keypoints. Feature tracking has many applications in the field of computer vision such as motion estimation and visual odometry. Three main steps are involved in the entire tracking process. First we extract features that are trackable across a sequence of frames. Mostly we track corners and blobs as these are very distinctive in images. There are several feature detectors that have been developed, popular among them is the **Harris Corner Detector**.
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
